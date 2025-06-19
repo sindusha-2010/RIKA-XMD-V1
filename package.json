@@ -15,6 +15,7 @@
     "@vitalets/google-translate-api": "^9.2.0",
     "@dark-yasiya/yt-dl.js": "latest",
     "@dark-yasiya/scrap": "latest",
+    "node-cache": "latest",
     "pino": "^7.0.5",
     "pm2": "^6.0.5",
     "util": "^0.12.4",
