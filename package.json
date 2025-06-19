@@ -10,7 +10,7 @@
   },
   "dependencies": {
     "@whiskeysockets/baileys": "npm:asitha-new-v99",
-    "@adiwajshing/keyed-db": "^0.2.4"
+    "@adiwajshing/keyed-db": "^0.2.4",
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.2.0",
     "@dark-yasiya/yt-dl.js": "latest",
