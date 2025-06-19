@@ -14,7 +14,6 @@
     "@ffmpeg-installer/ffmpeg": "^1.1.0",
     "@vitalets/google-translate-api": "^9.2.0",
     "@dark-yasiya/yt-dl.js": "latest",
-    "node-cache": "latest",
     "@dark-yasiya/scrap": "latest",
     "pino": "^7.0.5",
     "pm2": "^6.0.5",
